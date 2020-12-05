@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ورقة عمل 1</string>
+    <string name="your_score">نتيجتك هي </string>
+    <string name="out_of">بعيدا عن المكان </string>
+    <string name="repeat">كرر</string>
+    <string name="cancel">إلغاء</string>
+    <string name="question1">تمتلك السمكة الذهبية ذاكرة مدتها ثلاث ثوان فقط</string>
+    <string name="question2">الأخطبوط له خمسة قلوب</string>
+    <string name="question3">البرازيل هي الدولة الوحيدة في الأمريكتين التي لديها اللغة البرتغالية الرسمية</string>
+    <string name="question4">متر أبعد من ساحة</string>
+    <string name="question5">يمكن رؤية سور الصين العظيم من الفضاء</string>
+    <string name="question6">هل تستخدم برمجة Android Java</string>
+    <string name="question7">موناكو هي أصغر دولة في العالم</string>
+    <string name="istrue">صحيح</string>
+    <string name="isfalse">خاطئة</string>
+    <string name="english">الإنجليزية</string>
+    <string name="arabic">عربى</string>
+    <string name="average">متوسط ​​النتائج</string>
+    <string name="reset">إعادة تعيين</string>
+</resources>

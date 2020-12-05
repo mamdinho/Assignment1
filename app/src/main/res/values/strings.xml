@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="your_score">Your score is</string>
+    <string name="out_of">out of</string>
+    <string name="repeat">REPEAT</string>
+    <string name="cancel">CANCEL</string>
+    <string name="question1">Goldfish only have a memory of three seconds</string>
+    <string name="question2">An octopus has five hearts</string>
+    <string name="question3">Brazil is the only country in the Americas to have the official language of Portuguese</string>
+    <string name="question4">A metre is further than a yard</string>
+    <string name="question5">The Great Wall of China is visible from space</string>
+    <string name="question6">Does Android programming use Java</string>
+    <string name="question7">Monaco is the smallest country in the world</string>
+    <string name="istrue">TRUE</string>
+    <string name="isfalse">FALSE</string>
+    <string name="english">English</string>
+    <string name="arabic">Arabic</string>
+    <string name="average">Average Results</string>
+    <string name="reset">Reset</string>
+</resources>
